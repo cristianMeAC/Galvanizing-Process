@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DownloadTask>
+  <FullDownload type="ADMINDATA">pdata.pwx</FullDownload>
+  <FullDownload>pdata.fwc</FullDownload>
+  <FullDownload>ProjectSettings.hsf</FullDownload>
+  <FullDownload>DeviceSettings.hsf</FullDownload>
+</DownloadTask>
